@@ -31,6 +31,7 @@ dependencies {
     annotationProcessor 'org.projectlombok:lombok:1.18.38'
 
 //  Common
+    implementation "org.springdoc:springdoc-openapi-starter-webmvc-ui:2.8.9"
     implementation "com.fasterxml.jackson.datatype:jackson-datatype-jsr310"
     implementation("javax.validation:validation-api:2.0.1.Final")
 

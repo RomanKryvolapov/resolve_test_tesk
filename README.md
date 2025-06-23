@@ -26,3 +26,6 @@ Includes unit and integration tests.
 
 ## Postman
 There is a `postman_collection.json` file in the project root for importing into Postman.  
+
+## Swagger
+http://localhost:8080/swagger-ui/index.html
