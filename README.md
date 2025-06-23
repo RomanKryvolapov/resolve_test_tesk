@@ -4,7 +4,7 @@
 Simple RESTful Spring Boot application for managing user tasks.  
 Each task has a title, description, due date, status and assignee.  
 Tasks can depend on another task: you cannot mark a task as completed if its dependency is not yet completed.  
-Data is persisted in-memory (H2) or in MariaDB/PostgreSQL (Docker).  
+Data is persisted in-memory H2
 Includes unit and integration tests.
 
 ## Endpoints
